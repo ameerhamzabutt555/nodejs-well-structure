@@ -1,0 +1,18 @@
+{
+  message: 'TokenExpiredError: jwt expired Method: POST=====/resetPassword/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Mzc2NDNkNDQ2ZmI1YTYzOGFjM2Q2MjQiLCJpYXQiOjE2Njg4NDM5ODIsImV4cCI6MTY2ODg0NTc4Mn0.VIKAkR5WzXIYwn-FEgjqTEnHpGprC6GGH8Nr903E9mw=====jwt expired ',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Nov-23-2022 16:07:13'
+}
+{
+  message: "TypeError: Cannot read properties of null (reading '_id') Method: POST=====/login=====undefined ",
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Nov-23-2022 16:13:12'
+}
+{
+  message: 'AxiosError: Request failed with status code 404 Method: POST=====/fb294828-db23-461d-aaa1-94760c60acb5getSinglePayment=====undefined ',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: 'Nov-23-2022 16:13:39'
+}

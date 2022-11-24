@@ -1,0 +1,6 @@
+{
+  message: '200 Method: POST=====/fb294828-db23-461d-aaa1-94760c60acb5=====payment found successfuly. ',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: 'Nov-23-2022 16:13:27'
+}
